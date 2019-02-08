@@ -4,7 +4,7 @@ Nesse desafio foi propostp construir uma aplicação com interface de e-commerce
 
 Além disso, os dados de produtos e categorias virão de uma API com json-server.
 
-Como desafio pessoal adicinei os botões com as respctivas funcionalidades: ( Continuar comprando e Fecha pedido).
+Como desafio pessoal adicionei os botões com as respectivas funcionalidades: ( Continuar comprando e Fecha pedido).
 
 Mediante o desafio as telas ficaram com as imagens abaixo:
 
